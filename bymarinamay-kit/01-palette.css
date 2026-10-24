@@ -1,0 +1,28 @@
+/* @bymarinamay palette — estimates from brand audit 2026-10-24. One flat ground per post; topic-code the hue. */
+:root{
+  --mm-signature-blood-red: #C8102E; /* Arches, banners, horror accent, logo divider */
+  --mm-substack-grain-crimson: #A3203A; /* Substack mark field, deep red alternative */
+  --mm-reel-cover-red: #D92B2B; /* Reel covers, diary covers */
+  --mm-panel-brown: #3A2A20; /* Upcoming central panel — the constant */
+  --mm-charcoal-vampire: #3A3A3A; /* Queer Vampires ground */
+  --mm-ink-black: #111111; /* Titles on light grounds */
+  --mm-cream-poster: #F3EAD8; /* Folk Horror type, Greek meander, light text on navy/brown */
+  --mm-folk-navy: #2B3A55; /* Folk Horror ground */
+  --mm-upcoming-olive: #7FA653; /* Upcoming Films early ground (Pt.7) */
+  --mm-upcoming-olive-light: #8AA85C; /* Upcoming Olive highlight/grain variation */
+  --mm-upcoming-lavender: #B9A8E0; /* Upcoming Pt.30 ground */
+  --mm-queer-pink: #F2B8CE; /* Queer Movies film slides */
+  --mm-queer-gradient-pink: #E8A8C8; /* Queer Movies cover gradient top */
+  --mm-queer-gradient-lavender-blue: #A8B8E8; /* Queer Movies cover gradient bottom */
+  --mm-greek-burnt-orange: #E87E2E; /* Greek Myth ground */
+  --mm-greek-burnt-orange-alt: #F07A2A; /* Greek Myth variation */
+  --mm-essay-pale-blue: #BFD6DB; /* FrameXFrame Instagram ground */
+  --mm-essay-pale-blue-deep: #A9C6CC; /* FrameXFrame shading/highlight */
+  --mm-substack-pale: #DCE6EA; /* Substack page ground/header band */
+  --mm-sticker-pink: #F28BB4; /* Pt.30 sticker system — primary */
+  --mm-sticker-purple: #8B7FD4; /* Pt.30 sticker system — secondary */
+  --mm-sticker-mint: #A8D8B9; /* Classic sticker system accent */
+  --mm-sticker-mustard: #E9B949; /* Classic sticker / Highlights */
+  --mm-sticker-teal: #2A9D8F; /* Classic sticker accent */
+  --mm-sticker-sky: #A8C8E8; /* Classic sticker / Drama */
+}

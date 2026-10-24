@@ -1,0 +1,13 @@
+/* @bymarinamay FONT SYSTEM — recreation matches, NOT her confirmed fonts.
+   No font name was confirmed in the audit. These free Google Fonts are close in character.
+   Load: paste the @import at the TOP of your CSS, or install the fonts for Canva/Adobe/Figma. */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@300;500;700&family=Pirata+One&family=Playfair+Display:ital,wght@0,700;1,500&family=EB+Garamond:ital,wght@0,500;1,500&family=Nunito:wght@700;800&family=Courier+Prime:ital@0;1&display=swap');
+
+.mm-display-condensed { font-family:'Anton','Oswald','Arial Narrow',sans-serif; text-transform:uppercase; letter-spacing:.01em; }
+.mm-hairline { font-family:'Oswald','Arial Narrow',sans-serif; font-weight:300; text-transform:uppercase; letter-spacing:.32em; }
+.mm-display-serif { font-family:'Playfair Display',Georgia,serif; text-transform:uppercase; }
+.mm-blackletter { font-family:'Pirata One','UnifrakturMaguntia',serif; }
+.mm-synopsis-italic { font-family:'EB Garamond',Georgia,serif; font-style:italic; text-align:center; }
+.mm-body-rounded { font-family:'Nunito','Quicksand',sans-serif; font-weight:700; text-align:center; }
+.mm-typewriter { font-family:'Courier Prime','Courier New',monospace; }
+.mm-faux-greek { font-family:'Anton','Oswald',sans-serif; text-transform:uppercase; letter-spacing:.04em; /* for true faux-Greek letterforms, search your library for a Greek/display face — do not fake it with Anton alone for a final */ }

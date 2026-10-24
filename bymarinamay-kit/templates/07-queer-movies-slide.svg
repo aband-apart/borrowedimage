@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><title>Queer Movies slide</title>
+<rect width="1080" height="1350" fill="#F2B8CE"/>
+<text x="540" y="110" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="27" font-weight="800" fill="#111">[CAST NAME ▸ CAST NAME ▸ CAST NAME]</text>
+<rect x="140" y="150" width="800" height="620" fill="#E8DDD0"/>
+<text x="540" y="445" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="30" fill="#3A2A20">[SEPIA PHOTO — TORN-PAPER EDGES]</text>
+<circle cx="880" cy="820" r="62" fill="#E8DDD0" stroke="#fff" stroke-width="5"/>
+<circle cx="790" cy="860" r="48" fill="#D8CFC0" stroke="#fff" stroke-width="5"/>
+<text x="80" y="930" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="88" fill="#111">FILM TITLE</text>
+<text x="82" y="985" font-family="'Courier Prime', 'Courier New', monospace" font-size="24" letter-spacing="3" fill="#111">Dir. [Director Name]</text>
+<text x="540" y="1075" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="29" font-style="italic" fill="#111">[Synopsis: small centred serif/typewriter, 2 lines.]</text>
+<g transform="translate(500,1235)" stroke="#111111" fill="none" stroke-width="3">
+    <path d="M40 62 C10 38 6 18 22 10 C32 5 40 14 40 20 C40 14 48 5 58 10 C74 18 70 38 40 62 Z"/>
+    <line x1="6" y1="6" x2="74" y2="58"/><circle cx="33" cy="26" r="2.5" fill="#111111"/><circle cx="47" cy="26" r="2.5" fill="#111111"/></g>
+</svg>
