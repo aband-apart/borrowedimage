@@ -34,7 +34,7 @@
 4. One central image in the series frame — halftone/duotone/sepia, cut out
 5. Director, small, always
 6. Synopsis/body, small — italic serif (lists), typewriter (essays), rounded sans (text-forward)
-7. Heart-arrow sign-off mark, tiny, foot centre *(the templates include a simplified original drawing in that position — replace it with your own mark, and fill the `[YOUR HANDLE]` slot in the hairline credits, if this kit is for your own account)*
+7. Heart-arrow sign-off mark, tiny, foot centre *(the templates include a simplified original drawing in that position — replace it with your own mark if this kit is for your own account; the hairline credits are set to `@borrowedimage`)*
 8. End card — ONE CTA only
 
 **Topic coding — pick the row, get the whole look:**
