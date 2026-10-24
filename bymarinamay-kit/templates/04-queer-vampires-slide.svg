@@ -4,8 +4,9 @@
 <circle cx="540" cy="130" r="7" fill="#C8102E"/>
 <text x="540" y="105" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="30" letter-spacing="8" fill="#FFFFFF">[YEAR]</text>
 <text x="540" y="275" text-anchor="middle" font-family="'Pirata One', 'UnifrakturMaguntia', serif" font-size="92" fill="#FFFFFF">Film Title</text>
-<text x="540" y="390" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="31" font-weight="700" fill="#FFFFFF">[Body: bold rounded sans, white, centred.</text>
-<text x="540" y="432" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="31" font-weight="700" fill="#FFFFFF">2–3 short lines. Highly legible.]</text>
+<text x="540" y="330" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="26" font-weight="300" letter-spacing="4" fill="#FFFFFF">DIR. [DIRECTOR NAME]</text>
+<text x="540" y="400" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="31" font-weight="800" fill="#FFFFFF">[Body: bold rounded sans, white, centred.</text>
+<text x="540" y="442" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="31" font-weight="800" fill="#FFFFFF">2–3 short lines. Highly legible.]</text>
 <path d="M340 1180 L340 620 Q340 500 540 470 Q740 500 740 620 L740 1180 Z" fill="#C8102E"/>
 <text x="540" y="840" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="28" fill="#FFFFFF">[B/W HALFTONE IMAGE</text>
 <text x="540" y="880" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="28" fill="#FFFFFF">INSIDE RED ARCH]</text>

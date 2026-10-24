@@ -2,12 +2,13 @@
 <rect width="1080" height="1350" fill="#2B3A55"/>
 <rect x="36" y="36" width="1008" height="1278" fill="none" stroke="#F3EAD8" stroke-width="3"/>
 <rect x="54" y="54" width="972" height="1242" fill="none" stroke="#F3EAD8" stroke-width="1.5"/>
-<text x="540" y="115" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="19" letter-spacing="6" fill="#F3EAD8">FOLK HORROR — BY MARINA MAY</text>
+<text x="540" y="115" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="19" font-weight="300" letter-spacing="6" fill="#F3EAD8">FOLK HORROR — BY [YOUR HANDLE]</text>
 <text x="540" y="190" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="28" font-style="italic" fill="#F3EAD8">Dir. [Director Name]</text>
-<text x="540" y="300" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="92" fill="#F3EAD8">FILM TITLE</text>
+<text x="540" y="300" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="92" font-weight="700" fill="#F3EAD8">FILM TITLE</text>
 <rect x="290" y="360" width="500" height="470" fill="none" stroke="#F3EAD8" stroke-width="3"/>
 <rect x="315" y="385" width="450" height="420" fill="#C8102E" opacity="0.85"/>
-<text x="540" y="610" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="30" fill="#fff">[FRAMED STILL — RED DUOTONE]</text>
+<text x="540" y="590" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="30" fill="#fff">[FRAMED STILL —</text>
+<text x="540" y="630" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="30" fill="#fff">RED DUOTONE]</text>
 <text x="540" y="895" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="25" fill="#F3EAD8">est. [YEAR]</text>
 <text x="540" y="965" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="29" font-style="italic" fill="#F3EAD8">[Synopsis: 2 lines, centred italic serif, cream.]</text>
 <rect x="290" y="1060" width="500" height="62" fill="#C8102E"/>

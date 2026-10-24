@@ -2,7 +2,7 @@
 
 **What this is:** A working production kit built from the full brand audit (Oct 24, 2026) — palette files you can import, font casting you can install today, 8 editable carousel templates, caption templates, a sticker/frame library, and a production checklist. Open this file first; everything else in the folder plugs into it.
 
-**What this is not:** Her source files. Her actual fonts were never confirmed in any visible source, and her hex values are screenshot estimates. This kit recreates the *system* faithfully with free, licensed-for-use tools. Credit/audit trail is in the companion audit document.
+**What this is not:** Her source files. Her actual fonts were never confirmed in any visible source, and her hex values are screenshot estimates. This kit recreates the *system* faithfully with free, licensed-for-use tools. Credit/audit trail is in the companion audit document (`bymarinamay-brand-audit-2026-10-24.md`, not included in this folder).
 
 ---
 
@@ -12,14 +12,14 @@
 | `00-KIT-GUIDE.md` | This guide — system, sizes, workflow |
 | `01-palette.ase` | Import into Photoshop / Illustrator / Procreate (Swatches → Load) |
 | `01-palette.css` / `01-palette.json` | Web, Figma plugins, code, Notion/HTML work |
-| `01-palette-swatch-sheet.html` | Open in a browser — visual palette, click-ready hex list |
+| `01-palette-swatch-sheet.html` | Open in a browser — visual palette; click a swatch to copy its hex |
 | `02-fonts.css` | Google Fonts import + ready CSS classes for every type role |
 | `02-fonts-guide.md` | Which font for which role, at which size — the casting table |
 | `03-caption-and-voice-templates.md` | 6 copy-paste caption templates (Upcoming, Lens list, Essay, Recap, Spanish, Sponsored) + voice rules + hashtag bank |
 | `04-stickers-frames-and-image-rules.md` | Sticker library, frame library, halftone/duotone/grain recipes |
 | `templates/01–08 .svg` | Editable 1080×1350 carousel templates — open in Illustrator, Figma, Canva (upload), or any SVG editor; all text is live text |
-| `previews/01–08 .png` | Rendered previews of each template — what it should look like before you add photos (preview fonts are renderer fallbacks; yours will match file 02 once installed) |
-| `assets/grain-overlay-tile-540x675.png` — scale to 200% when you place it; noise is scale-tolerant | Drop over every finished slide, last step |
+| `previews/01–08 .png` | Rendered previews of each template — what it should look like before you add photos (rendered at half size, 540×675, with the Google Fonts from file 02) |
+| `assets/grain-overlay-tile-540x675.png` | Drop over every finished slide, last step — scale to 200% (1080×1350) when you place it; noise is scale-tolerant |
 
 ---
 
@@ -34,7 +34,7 @@
 4. One central image in the series frame — halftone/duotone/sepia, cut out
 5. Director, small, always
 6. Synopsis/body, small — italic serif (lists), typewriter (essays), rounded sans (text-forward)
-7. Heart-arrow sign-off mark, tiny, foot centre *(the templates include a simplified original drawing in that position — replace with your own mark if this kit is for your own account)*
+7. Heart-arrow sign-off mark, tiny, foot centre *(the templates include a simplified original drawing in that position — replace it with your own mark, and fill the `[YOUR HANDLE]` slot in the hairline credits, if this kit is for your own account)*
 8. End card — ONE CTA only
 
 **Topic coding — pick the row, get the whole look:**

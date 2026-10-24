@@ -11,7 +11,7 @@
 
 | Role | Use this | Size at 1080×1350 | Case / spacing | Colour |
 |---|---|---|---|---|
-| Hairline credit (top of every slide) | Oswald Light | 19–24 pt equiv. (~50–64px is too big — keep it TINY, ~48px max in a 1080 canvas at display size; in the SVG templates it's set at 19–24 units for a reason) | ALL CAPS, tracking +300 to +600 | Ground-contrast: black on light, cream/white on dark |
+| Hairline credit (top of every slide) | Oswald Light | 19–24 px on the 1080 canvas (the SVG templates use 19–21) — keep it TINY; if it reads at thumbnail size it's too big | ALL CAPS, tracking +300 to +600 | Ground-contrast: black on light, cream/white on dark |
 | Display — Upcoming / Queer lists | Anton | Cover 110–120, film slide 88–104 | ALL CAPS, tight leading 0.95 | Black on light ground, white on brown panel |
 | Display — Folk Horror | Playfair Display Bold | 88–96 | ALL CAPS | Cream #F3EAD8 on navy |
 | Display — Vampires / wordmark | Pirata One | 88–96 | Title case | White on charcoal |

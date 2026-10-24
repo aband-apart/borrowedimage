@@ -50,7 +50,7 @@ Procreate/Affinity: halftone brush/pattern layer + clipping mask works for cover
 B/W photo → warm sepia gradient map (shadows brown, highlights cream) → halftone lightly → cut out → centre it, let stickers overlap the head. This head is a cover device only — don't use it on film slides.
 
 ### Grain (mandatory, last step)
-Overlay `assets/grain-overlay-tile-540x675.png`, scaled to 200% to cover the slide, at 100% over the finished slide, or: Photoshop Filter → Noise → Add Noise 12–18%, Gaussian, Monochromatic, on a 50% grey overlay layer at 30–50% opacity. Flat colour without grain reads as a different brand.
+Place `assets/grain-overlay-tile-540x675.png` on top of the finished, flattened slide, scaled to 200% so it covers the full 1080×1350, at 100% opacity (the tile is already transparent and subtle). Or: Photoshop Filter → Noise → Add Noise 12–18%, Gaussian, Monochromatic, on a 50% grey overlay layer at 30–50% opacity. Flat colour without grain reads as a different brand.
 
 ### Full-colour exception
 FrameXFrame/art posts ONLY: keep the still in full colour (the film's colour is the evidence), add grain, thin black border. Duotoning an art-analysis still destroys the point of the post.
