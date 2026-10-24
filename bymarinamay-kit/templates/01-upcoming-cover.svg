@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><title>Upcoming cover</title>
+<rect width="1080" height="1350" fill="#B9A8E0"/>
+<text x="540" y="72" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="21" font-weight="300" letter-spacing="6" fill="#111111">UPCOMING MOVIES — PART [##]</text>
+<text x="540" y="180" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="20" font-weight="300" letter-spacing="5" fill="#111111">[HAIRLINE SUBTITLE]</text>
+<circle cx="540" cy="520" r="215" fill="#E8DDD0"/>
+<text x="540" y="500" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="34" fill="#3A2A20">[PLACE HALFTONE</text>
+<text x="540" y="550" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="34" fill="#3A2A20">HEAD CUT-OUT HERE]</text>
+<g font-family="'Nunito', 'Quicksand', sans-serif" font-size="24" font-weight="800" text-anchor="middle">
+ <ellipse cx="285" cy="390" rx="95" ry="38" fill="#F28BB4"/><text x="285" y="398" fill="#111">HYPED</text>
+ <path d="M760 300 L880 440 L640 440 Z" fill="#F28BB4"/><text x="760" y="420" fill="#111" font-size="20">CAN'T WAIT ★</text>
+ <circle cx="800" cy="620" r="58" fill="none" stroke="#111" stroke-dasharray="7 7" stroke-width="3"/><text x="800" y="627" fill="#111" font-size="20">PART ##</text>
+</g>
+<text x="540" y="900" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="118" fill="#111111">UPCOMING</text>
+<text x="540" y="1015" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="118" fill="#111111">MOVIES</text>
+<text x="540" y="1085" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="38" font-weight="700" fill="#111111">i can't stop thinking about</text>
+<g transform="translate(500,1235)" stroke="#111111" fill="none" stroke-width="3">
+    <path d="M40 62 C10 38 6 18 22 10 C32 5 40 14 40 20 C40 14 48 5 58 10 C74 18 70 38 40 62 Z"/>
+    <line x1="6" y1="6" x2="74" y2="58"/><circle cx="33" cy="26" r="2.5" fill="#111111"/><circle cx="47" cy="26" r="2.5" fill="#111111"/></g>
+</svg>

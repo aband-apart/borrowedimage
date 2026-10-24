@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><title>Greek Myth slide</title>
+<rect width="1080" height="1350" fill="#E87E2E"/>
+<rect x="0" y="36" width="1080" height="26" fill="none" stroke="#F3EAD8" stroke-width="4" stroke-dasharray="28 14"/>
+<text x="540" y="115" text-anchor="middle" font-family="'Oswald', 'Arial Narrow', sans-serif" font-size="20" font-weight="300" letter-spacing="6" fill="#111111">★ GREEK RETELLINGS BY @borrowedimage ★</text>
+<g stroke="#111111" fill="none" stroke-width="5">
+ <path d="M240 330 L540 190 L840 330 Z" fill="none"/>
+ <line x1="220" y1="355" x2="860" y2="355"/><line x1="220" y1="760" x2="860" y2="760"/>
+ <line x1="290" y1="370" x2="290" y2="745"/><line x1="410" y1="370" x2="410" y2="745"/><line x1="540" y1="370" x2="540" y2="745"/><line x1="670" y1="370" x2="670" y2="745"/><line x1="790" y1="370" x2="790" y2="745"/>
+</g>
+<text x="540" y="315" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="42" fill="#111">[YEAR]</text>
+<text x="540" y="565" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="30" fill="#111">[ACTOR CUT-OUT IN FRONT OF COLUMNS]</text>
+<rect x="0" y="790" width="1080" height="24" fill="none" stroke="#F3EAD8" stroke-width="4" stroke-dasharray="28 14"/>
+<text x="540" y="870" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="30" letter-spacing="5" fill="#111">[MYTH SOURCE — e.g. ORPHEUS AND EURYDICE]</text>
+<text x="540" y="985" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="88" fill="#111">FILM TITLE!</text>
+<text x="540" y="1045" text-anchor="middle" font-family="Anton, 'Oswald', 'Arial Narrow', sans-serif" font-size="30" fill="#111">Dir. [Director Name]</text>
+<text x="540" y="1130" text-anchor="middle" font-family="'Nunito', 'Quicksand', sans-serif" font-size="29" font-weight="700" fill="#111">[Synopsis: hand-drawn-feel sans, centred, 2 lines.]</text>
+<g transform="translate(500,1255)" stroke="#111111" fill="none" stroke-width="3">
+    <path d="M40 62 C10 38 6 18 22 10 C32 5 40 14 40 20 C40 14 48 5 58 10 C74 18 70 38 40 62 Z"/>
+    <line x1="6" y1="6" x2="74" y2="58"/><circle cx="33" cy="26" r="2.5" fill="#111111"/><circle cx="47" cy="26" r="2.5" fill="#111111"/></g>
+</svg>

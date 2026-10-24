@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350"><title>End card essay</title>
+<rect width="1080" height="1350" fill="#BFD6DB"/>
+<circle cx="540" cy="520" r="150" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="540" y="505" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="28" font-style="italic" fill="#111">[oval illustration /</text>
+<text x="540" y="545" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="28" font-style="italic" fill="#111">figure here]</text>
+<text x="540" y="790" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="31" letter-spacing="3" fill="#111">READ THE FULL BREAKDOWN</text>
+<text x="540" y="840" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="31" letter-spacing="3" fill="#111">ON MY SUBSTACK</text>
+<text x="540" y="915" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="25" letter-spacing="4" fill="#111">LINK IN BIO</text>
+<g transform="translate(500,1050)" stroke="#111111" fill="none" stroke-width="3">
+    <path d="M40 62 C10 38 6 18 22 10 C32 5 40 14 40 20 C40 14 48 5 58 10 C74 18 70 38 40 62 Z"/>
+    <line x1="6" y1="6" x2="74" y2="58"/><circle cx="33" cy="26" r="2.5" fill="#111111"/><circle cx="47" cy="26" r="2.5" fill="#111111"/></g>
+</svg>

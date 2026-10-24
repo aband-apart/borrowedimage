@@ -1,0 +1,256 @@
+{
+  "name": "bymarinamay \u2014 Topic-Coded Palette (estimates from audit, 2026-10-24)",
+  "note": "All hex are visual estimates (~) from screenshots in the audit, not sampled from her source files.",
+  "colors": [
+    {
+      "name": "Signature Blood Red",
+      "hex": "#C8102E",
+      "rgb": [
+        200,
+        16,
+        46
+      ],
+      "role": "Arches, banners, horror accent, logo divider"
+    },
+    {
+      "name": "Substack Grain Crimson",
+      "hex": "#A3203A",
+      "rgb": [
+        163,
+        32,
+        58
+      ],
+      "role": "Substack mark field, deep red alternative"
+    },
+    {
+      "name": "Reel Cover Red",
+      "hex": "#D92B2B",
+      "rgb": [
+        217,
+        43,
+        43
+      ],
+      "role": "Reel covers, diary covers"
+    },
+    {
+      "name": "Panel Brown",
+      "hex": "#3A2A20",
+      "rgb": [
+        58,
+        42,
+        32
+      ],
+      "role": "Upcoming central panel \u2014 the constant"
+    },
+    {
+      "name": "Charcoal Vampire",
+      "hex": "#3A3A3A",
+      "rgb": [
+        58,
+        58,
+        58
+      ],
+      "role": "Queer Vampires ground"
+    },
+    {
+      "name": "Ink Black",
+      "hex": "#111111",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "role": "Titles on light grounds"
+    },
+    {
+      "name": "Cream Poster",
+      "hex": "#F3EAD8",
+      "rgb": [
+        243,
+        234,
+        216
+      ],
+      "role": "Folk Horror type, Greek meander, light text on navy/brown"
+    },
+    {
+      "name": "Folk Navy",
+      "hex": "#2B3A55",
+      "rgb": [
+        43,
+        58,
+        85
+      ],
+      "role": "Folk Horror ground"
+    },
+    {
+      "name": "Upcoming Olive",
+      "hex": "#7FA653",
+      "rgb": [
+        127,
+        166,
+        83
+      ],
+      "role": "Upcoming Films early ground (Pt.7)"
+    },
+    {
+      "name": "Upcoming Olive Light",
+      "hex": "#8AA85C",
+      "rgb": [
+        138,
+        168,
+        92
+      ],
+      "role": "Upcoming Olive highlight/grain variation"
+    },
+    {
+      "name": "Upcoming Lavender",
+      "hex": "#B9A8E0",
+      "rgb": [
+        185,
+        168,
+        224
+      ],
+      "role": "Upcoming Pt.30 ground"
+    },
+    {
+      "name": "Queer Pink",
+      "hex": "#F2B8CE",
+      "rgb": [
+        242,
+        184,
+        206
+      ],
+      "role": "Queer Movies film slides"
+    },
+    {
+      "name": "Queer Gradient Pink",
+      "hex": "#E8A8C8",
+      "rgb": [
+        232,
+        168,
+        200
+      ],
+      "role": "Queer Movies cover gradient top"
+    },
+    {
+      "name": "Queer Gradient Lavender-Blue",
+      "hex": "#A8B8E8",
+      "rgb": [
+        168,
+        184,
+        232
+      ],
+      "role": "Queer Movies cover gradient bottom"
+    },
+    {
+      "name": "Greek Burnt Orange",
+      "hex": "#E87E2E",
+      "rgb": [
+        232,
+        126,
+        46
+      ],
+      "role": "Greek Myth ground"
+    },
+    {
+      "name": "Greek Burnt Orange Alt",
+      "hex": "#F07A2A",
+      "rgb": [
+        240,
+        122,
+        42
+      ],
+      "role": "Greek Myth variation"
+    },
+    {
+      "name": "Essay Pale Blue",
+      "hex": "#BFD6DB",
+      "rgb": [
+        191,
+        214,
+        219
+      ],
+      "role": "FrameXFrame Instagram ground"
+    },
+    {
+      "name": "Essay Pale Blue Deep",
+      "hex": "#A9C6CC",
+      "rgb": [
+        169,
+        198,
+        204
+      ],
+      "role": "FrameXFrame shading/highlight"
+    },
+    {
+      "name": "Substack Pale",
+      "hex": "#DCE6EA",
+      "rgb": [
+        220,
+        230,
+        234
+      ],
+      "role": "Substack page ground/header band"
+    },
+    {
+      "name": "Sticker Pink",
+      "hex": "#F28BB4",
+      "rgb": [
+        242,
+        139,
+        180
+      ],
+      "role": "Pt.30 sticker system \u2014 primary"
+    },
+    {
+      "name": "Sticker Purple",
+      "hex": "#8B7FD4",
+      "rgb": [
+        139,
+        127,
+        212
+      ],
+      "role": "Pt.30 sticker system \u2014 secondary"
+    },
+    {
+      "name": "Sticker Mint",
+      "hex": "#A8D8B9",
+      "rgb": [
+        168,
+        216,
+        185
+      ],
+      "role": "Classic sticker system accent"
+    },
+    {
+      "name": "Sticker Mustard",
+      "hex": "#E9B949",
+      "rgb": [
+        233,
+        185,
+        73
+      ],
+      "role": "Classic sticker / Highlights"
+    },
+    {
+      "name": "Sticker Teal",
+      "hex": "#2A9D8F",
+      "rgb": [
+        42,
+        157,
+        143
+      ],
+      "role": "Classic sticker accent"
+    },
+    {
+      "name": "Sticker Sky",
+      "hex": "#A8C8E8",
+      "rgb": [
+        168,
+        200,
+        232
+      ],
+      "role": "Classic sticker / Drama"
+    }
+  ]
+}
